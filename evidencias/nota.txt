@@ -1,0 +1,10 @@
+Evidencia de testing
+
+Se realizaron pruebas funcionales sobre el módulo de login y registro.
+
+Resultados:
+
+Login válido funciona correctamente.
+Validación de campos obligatorios correcta.
+Password débil detectado correctamente.
+Sesión expirada redirige al login.
